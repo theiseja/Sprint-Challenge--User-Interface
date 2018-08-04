@@ -71,7 +71,6 @@ p {
     text-align: center;
     margin-bottom: 60px;
     top: 80px;
-    width: 690px;
 }
 .main-navigation a {
     font-size: 14px;
@@ -260,17 +259,6 @@ p {
     background-color: dodgerblue;
 }
 
-.middle-content .boxes .box {
-    width: 12.5%;
-    height: 100px;
-    background: black;
-    margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -309,7 +297,6 @@ footer nav a {
     text-align: center;
     margin-bottom: 60px;
     top: 80px;
-    width: 690px;
 }
 .about-navigation a {
     font-size: 14px;
@@ -325,9 +312,8 @@ footer nav a {
 }
 .about-lambda {
     position: relative;
-    right: 27px;
-    bottom: 2px;
-    top: 22px;
+    left: 3px;
+    top: 11px;
 }
 .about-text {
     padding: 10px 25px;
@@ -357,6 +343,8 @@ footer nav a {
     margin: 5px 0;
 }
 .about-box {
+    border-bottom: 1px dashed black;
+    border-top: 1px dashed black;
     width: 360px;
     height: 400px;
     margin: 20px 2.5%;

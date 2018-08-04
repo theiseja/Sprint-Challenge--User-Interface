@@ -4,4 +4,6 @@ Describe some differences between display: block; and display: inline; : display
 
 What are the 4 areas of the box modem? Margin, Border, Padding, Content
 
+While using flexbox, what axis are you using when you use the property: align-items: center? Cross Axis
+
 What is the git command to commit staged changes as well as write a message? git commit -m "message here"
